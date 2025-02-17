@@ -5,7 +5,7 @@ about: Crie um pull request para contribuir com o projeto
 ---
 
 **Descrição:**
-Uma descrição clara e concisa do que este pull request faz.
+Uma descrição clara e concisa do que este pull request faz. ele faz
 
 **Corrige/Resolve:**
 # (número da issue)
